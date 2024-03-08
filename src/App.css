@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  background-color: rgba(126, 112, 112, 0.228);
+  border-radius: 15px;
+  width: 30vw;
+  height: 60vh;
+  padding: 5%;
+}
+
+.iconos{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 50px;
+  margin-block: 3%;
+}
+
+
